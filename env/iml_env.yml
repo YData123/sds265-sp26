@@ -1,0 +1,19 @@
+name: iML
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - gensim
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_server
+  - matplotlib
+  - pandas
+  - python=3.8
+  - scikit-learn
+  - seaborn=0.11
+  - tensorflow
+  - tqdm
